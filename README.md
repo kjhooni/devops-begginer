@@ -1,3 +1,5 @@
+TEST
+
 # Prerequisites
 #
 - JDK 11 
